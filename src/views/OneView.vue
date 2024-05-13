@@ -1,6 +1,6 @@
 <template>
  <div class="">
-2123
+123
 </div>
 </template>
 <script setup lang="ts">
